@@ -8,7 +8,7 @@
 		<version>4.1.0-M4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>guru.springframework.spring7webapp</groupId>
+	<groupId>guru.springframework</groupId>
 	<artifactId>spring7webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
