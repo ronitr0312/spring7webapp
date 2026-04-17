@@ -1,4 +1,4 @@
-package guru.springframework.spring7webapp.spring7webapp;
+package guru.springframework.spring7webapp;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

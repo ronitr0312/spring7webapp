@@ -1,4 +1,4 @@
-package guru.springframework.spring7webapp.spring7webapp;
+package guru.springframework.spring7webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
